@@ -19,6 +19,8 @@
       <root url="jar://$PROJECT_DIR$/lib/aopalliance-1.0.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/spring-core-5.2.3.RELEASE.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/spring-test-5.2.3.RELEASE.jar!/" />
+      <root url="jar://D:/Java_project/Spring/jar_files/javax.annotation-api-1.3.2.jar!/" />
+      <root url="jar://D:/Java_project/Spring/aspectjweaver-1.9.6.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
